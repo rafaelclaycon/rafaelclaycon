@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PodcastApp, a basic podcast player.
+- 🔭 I’m currently working on The Library is Open, a pet project to archive the episodes of one of my favorite podcasts ever (<a href="https://soundcloud.com/ummilkshakechamadowanda" target="_blank">`UMCW`</a>).
 
 - 🌱 I’m currently learning about audio playback and Combine on iOS.
 
@@ -12,4 +12,4 @@
 
 - 😄 Pronouns: he/him/his
 
-- ⚡ Fun fact: Claycon is not a surname. It is my middle name.
+- ⚡ Fun fact: My drag name is Rosa Lux. 💃🏼💅🏼

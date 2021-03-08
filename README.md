@@ -12,4 +12,4 @@
 
 - 😄 Pronouns: he/him/his
 
-- ⚡ Fun fact: My drag name is Rosa Lux. 💃🏼💅🏼
+- ⚡ Fun fact: Claycon is my middle name, not my surname.

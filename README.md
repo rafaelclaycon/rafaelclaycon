@@ -12,4 +12,4 @@
 
 - 😄 Pronouns: he/him/his
 
-- ⚡ Fun fact: Claycon is my middle name, not my surname.
+- ⚡ Fun fact: Claycon is my middle name, not a surname.

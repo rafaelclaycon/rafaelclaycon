@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on tidying up Arroto Amargo, a personal beer catalog, for release on the App Store.
 
-- 🌱 I’m currently learning about the VIPER architecture.
+- 🌱 I’m currently studying VIPER.
 
 - 🤔 I’m looking for help with Combine and good coding practices in general. Feel free to DM me with any questions or tips.
 
-- 💬 Ask me about Swift and SwiftUI.
+- 💬 Ask me about Swift, SwiftUI and great UXs.
 
 - 📫 How to reach me: <a href="http://twitter.com/mitt_rafael" target="_blank">`@mitt_rafael`</a>
 

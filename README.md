@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on The Library Is Open, a pet project to archive the episodes of one of my favorite podcasts ever (<a href="https://soundcloud.com/ummilkshakechamadowanda" target="_blank">`UMCW`</a>).
+- 🔭 I’m currently working on tidying up Arroto Amargo, a personal beer catalog, for release on the App Store.
 
-- 🌱 I’m currently learning about audio playback and Combine on iOS.
+- 🌱 I’m currently learning about the VIPER architecture.
 
 - 🤔 I’m looking for help with Combine and good coding practices in general. Feel free to DM me with any questions or tips.
 
@@ -12,4 +12,4 @@
 
 - 😄 Pronouns: he/him/his
 
-- ⚡ Fun fact: Claycon is my middle name, not a surname.
+- ⚡ Fun fact: As a kid, I designed at least two "new versions of Windows" using PowerPoint. 🤓

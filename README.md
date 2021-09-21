@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on tidying up Arroto Amargo, a personal beer catalog, for release on the App Store.
+- 🔭 I’m currently focused on my jobby job.
 
 - 🌱 I’m currently studying VIPER.
 

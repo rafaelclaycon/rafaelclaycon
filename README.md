@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently focused on my jobby job.
+- 🔭 I’m currently focused on The Library Is Open, my podcast archiving app.
 
-- 🌱 I’m currently studying VIPER.
+- 🌱 I’m currently studying Combine.
 
-- 🤔 I’m looking for help with Combine and good coding practices in general. Feel free to DM me with any questions or tips.
+- 🤔 I’m looking for help with good coding practices in general. Feel free to DM me with any questions or tips.
 
 - 💬 Ask me about Swift, SwiftUI and great UXs.
 

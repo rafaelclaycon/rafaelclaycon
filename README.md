@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently focused on The Library Is Open, my podcast archiving app.
 
-- 🌱 I’m currently studying Combine.
+- 🌱 I’m currently studying CleanSwift.
 
 - 🤔 I’m looking for help with good coding practices in general. Feel free to DM me with any questions or tips.
 

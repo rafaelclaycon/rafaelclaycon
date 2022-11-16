@@ -12,4 +12,4 @@
 
 - 😄 Pronouns: he/him/his
 
-- ⚡ Fun fact: As a kid, I used to design "new versions of Windows" using PowerPoint just for fun. UI and UX is what I'm really passionate about.
+- ⚡ Fun fact: As a kid, I designed two "new versions of Windows" using PowerPoint just for fun. UI and UX is what I'm really passionate about.

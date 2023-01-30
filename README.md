@@ -8,8 +8,8 @@
 
 - 💬 Ask me about Swift, SwiftUI, SQLite.swift, Vapor and great UXs.
 
-- 📫 How to reach me: <a href="http://twitter.com/mitt_rafael" target="_blank">`Twitter`</a> / <a href="https://toot.wales/@mitt_rafael" target="_blank">`Mastodon`</a>
+- 📫 How to reach me: <a href="https://toot.wales/@mitt_rafael" target="_blank">`Mastodon`</a>
 
 - 😄 Pronouns: he/him/his
 
-- ⚡ Fun fact: As a kid, I designed two "new versions of Windows" using PowerPoint just for fun. UI and UX is what I'm really passionate about.
+- ⚡ Fun fact: I learned a lot of English listening to tech podcasts as a teenager.

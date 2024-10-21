@@ -6,7 +6,7 @@
 
 - 🤔 I’m looking to grow as an iOS Developer, so please feel free to leave comments and/or open issues with code suggestions!
 
-- 💬 Ask me about Swift, SwiftUI, SQLite.swift, Vapor, great UXs, and TDD.
+- 💬 Ask me about Swift, SwiftUI, TDD, unit tests, Vapor, great UXs, and SQLite.swift.
 
 - 📫 How to reach me: <a href="https://toot.wales/@mitt_rafael" target="_blank">`Mastodon`</a>, <a href="https://www.threads.net/@rafaelclaycon" target="_blank">`Threads`</a>, <a href="https://bsky.app/profile/rafaelschmitt.bsky.social" target="_blank">`Bluesky`</a>
 

@@ -8,8 +8,8 @@
 
 - 💬 Ask me about Swift, SwiftUI, SQLite.swift, Vapor, great UXs, and TDD.
 
-- 📫 How to reach me: <a href="https://toot.wales/@mitt_rafael" target="_blank">`Mastodon`</a>
+- 📫 How to reach me: <a href="https://toot.wales/@mitt_rafael" target="_blank">`Mastodon`</a>, <a href="https://www.threads.net/@rafaelclaycon" target="_blank">`Threads`</a>, <a href="https://bsky.app/profile/rafaelschmitt.bsky.social" target="_blank">`Bluesky`</a>
 
 - 😄 Pronouns: he/they
 
-- ⚡ Fun fact: As a kid I would pile VHS tape cases to build tiny buildings for my playtime. I got my first Lego set when I was 11. Remember VHS?
+- ⚡ Fun fact: My first PC was so shity the first Harry Potter game would not run. I did install it tho and listened to the game sound files on Winamp on repeat. 😅

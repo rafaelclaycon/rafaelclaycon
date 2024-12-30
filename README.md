@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on new features for my app, [Medo e Delírio](https://github.com/rafaelclaycon/MedoDelirioBrasilia), a fun companion to the **Medo e Delírio em Brasília** podcast - [available on the App Store](https://apps.apple.com/br/app/medo-e-del%C3%ADrio/id1625199878).
 
-- 🌱 My main growth focus right now is SwiftUI and it's many challenges.
+- 🌱 My main growth focus right now is SwiftUI and its many challenges.
 
 - 🤔 I’m looking to grow as an iOS Developer, so please feel free to leave comments and/or open issues with code suggestions!
 

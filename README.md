@@ -14,4 +14,4 @@
 
 - 😄 Pronouns: he/they
 
-- 🎲 Fun fact: My first Mac was a 2008 Acer running Leopard that I had to carry a DVD drive with because it would not boot without it.
+- 🎲 Fun fact: My first "Mac" was a 2008 Acer laptop running Mac OS X Leopard that I had to carry a DVD drive with because it would not boot without it.
